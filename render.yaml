@@ -2,7 +2,7 @@ services:
   - type: web
     name: libretranslate
     env: docker
-    repo: https://github.com/YOUR_USERNAME/LibreTranslate
+    repo: https://github.com/olelasbs/LibreTranslate
     branch: main
     plan: free
     region: oregon
