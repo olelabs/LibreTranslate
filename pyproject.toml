@@ -8,6 +8,15 @@ version = "1.0.0"  # ✅ ADD THIS LINE
 description = "Free and Open Source Machine Translation API"
 authors = ["Your Name olelasbs@gmail.com"]
 
+[tool.poetry]
+name = "libretranslate"
+version = "1.0.0"
+description = "Free and Open Source Machine Translation API"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<4.0"  # ✅ Restrict Python to <4.0
+
 
 [project]
 requires-python = ">=3.8"
