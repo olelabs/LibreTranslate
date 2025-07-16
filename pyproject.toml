@@ -9,7 +9,7 @@ description = "Free and Open Source Machine Translation API"
 authors = ["Your Name olelasbs@gmail.com"]
 
 [tool.poetry.dependencies]
-python = ">=3.8,<4.0"  # ✅ Restrict Python to <4.0
+python = ">=3.10,<3.12"
 
 
 [project]
