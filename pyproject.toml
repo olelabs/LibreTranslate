@@ -2,6 +2,7 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
+
 [tool.poetry]
 name = "libretranslate"
 version = "1.0.0"  # ✅ ADD THIS LINE
